@@ -30,5 +30,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Hascher-Phanton/Hascher-Phanton/output/snake.svg" alt="Snake animation" />
-![snake gif](https://github.com/Hascher-Phanton/Hascher-Phanton/blob/output/github-contribution-grid-snake.svg)
+
 ###
