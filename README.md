@@ -31,4 +31,6 @@
 
 <img src="https://raw.githubusercontent.com/Hascher-Phanton/Hascher-Phanton/output/snake.svg" alt="Snake animation" />
 
+![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+
 ###
