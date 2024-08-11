@@ -1,4 +1,11 @@
 <h2 align="left">Hi 👋! My name is Josué and I'm a beginner dev from Brasil ✨</></h2>
+<h2>
+ <div align="center">
+ ~A tecnollogy lover, newer talker english and
+   <br>
+  ~a big friend of everyone
+
+  
 
 ###
 
@@ -23,5 +30,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Hascher-Phanton/Hascher-Phanton/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/Hascher-Phanton/Hascher-Phanton/blob/output/github-contribution-grid-snake.svg)
 ###
