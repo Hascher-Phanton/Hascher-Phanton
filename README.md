@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left" style=¨color:#00008B¨>My name is Josué and I'm a Software Enginner from Brazil</h2>
+<h2 align="left" style="color:#00008B">My name is Josué and I'm a Software Enginner from Brazil</h2>
 
 ###
 
