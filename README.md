@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2023<br>📚 I'm currently learning: Rails<br>🎯 Goals: Make a isane projects<br>🎲 Fun fact: i am young and curious</p>
+<p align="left">✨ Creating bugs since: 2024<br>📚 I'm currently learning: Rails<br>🎯 Goals: Make a isane projects<br>🎲 Fun fact: i am young and curious</p>
 
 ###
 <div  align="right">
